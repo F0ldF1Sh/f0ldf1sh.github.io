@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Zheyu Wang, a final-year undergraduate student majoring in Software Engineering at the University of Electronic Science and Technology of China (UESTC).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently a research intern in the Department of Psychological and Cognitive Sciences at Tsinghua University, where I work on foundation models for physiological signals. My broader research interests lie in generative modeling, NeuroAI, and computational neuroscience.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I will join the Department of Psychological and Cognitive Sciences at Tsinghua University as a Ph.D. student in Fall 2027. I'm always happy to connect and discuss research ideas!
