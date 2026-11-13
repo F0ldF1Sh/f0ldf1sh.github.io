@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://f0ldf1sh.github.io/sitemap.xml
