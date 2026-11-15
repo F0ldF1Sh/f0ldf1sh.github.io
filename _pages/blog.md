@@ -2,8 +2,8 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: false
-nav_order: 1
+nav: true
+nav_order: 2
 pagination:
   enabled: true
   collection: posts
@@ -101,13 +101,16 @@ pagination:
 
 {% endif %}
 
-  <ul class="post-list">
-
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
+
+{% if postlist.size == 0 %}
+  <p>No posts yet.</p>
+  {% else %}
+  <ul class="post-list">
 
     {% for post in postlist %}
 
@@ -188,6 +191,7 @@ pagination:
     {% endfor %}
 
   </ul>
+  {% endif %}
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
