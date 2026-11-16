@@ -1,0 +1,5 @@
+---
+date: 2026-10-31
+---
+
+**Outstanding Student Scholarship**, UESTC

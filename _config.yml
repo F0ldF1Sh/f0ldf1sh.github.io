@@ -204,8 +204,10 @@ collections:
     output: true
   experience:
     output: false
+    permalink: /#experience
   honors:
     output: false
+    permalink: /#honors
   projects:
     output: true
   teachings:
